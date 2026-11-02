@@ -1,0 +1,52 @@
+{
+  "takt": [
+    {
+      "id": "takt-ethiopia",
+      "name": "Эфиопия Гуджи",
+      "category": "Зерно",
+      "price": 990,
+      "note": "Черника / чай / бергамот · 250 г",
+      "position": "0% 0%"
+    },
+    {
+      "id": "takt-colombia",
+      "name": "Колумбия Уила",
+      "category": "Зерно",
+      "price": 890,
+      "note": "Карамель / красное яблоко · 250 г",
+      "position": "50% 0%"
+    },
+    {
+      "id": "takt-brazil",
+      "name": "Бразилия Серрадо",
+      "category": "Зерно",
+      "price": 790,
+      "note": "Шоколад / орех / сухофрукты · 250 г",
+      "position": "100% 0%"
+    },
+    {
+      "id": "takt-decaf",
+      "name": "Без кофеина",
+      "category": "Зерно",
+      "price": 1090,
+      "note": "Молочный шоколад / финик · 250 г",
+      "position": "0% 100%"
+    },
+    {
+      "id": "takt-cup",
+      "name": "Чашка TAKT",
+      "category": "Аксессуары",
+      "price": 1290,
+      "note": "Керамика · 200 мл",
+      "position": "50% 100%"
+    },
+    {
+      "id": "takt-dripper",
+      "name": "Воронка для кофе",
+      "category": "Аксессуары",
+      "price": 2390,
+      "note": "Металл · размер 02",
+      "position": "100% 100%"
+    }
+  ]
+}
